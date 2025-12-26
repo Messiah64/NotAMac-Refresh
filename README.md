@@ -22,8 +22,8 @@ Welcome to **NotAMac**! This project turns an ESP32 and a small TFT screen into 
 
 ## 🛠️ Hardware Requirements
 
-* **Microcontroller:** ESP32 (e.g., ESP32-WROOM-32).
-* **Display:** 1.8" or 1.44" TFT Display (ST7735 Driver).
+* **Microcontroller:** XIAO ESP32 C3 (has to be this to follow given pinout connections).
+* **Display:** 1.8" or 1.44" TFT Display (As long as its using ST7735 Driver).
 * **Connections:** Standard SPI wiring.
 
 ### 🔌 Pinout Configuration
