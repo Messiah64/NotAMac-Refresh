@@ -1,4 +1,3 @@
-Here is a clean, visually appealing, and developer-friendly README for your project.
 
 ---
 
