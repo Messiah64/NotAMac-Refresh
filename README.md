@@ -104,7 +104,7 @@ ST7735 Display          XIAO ESP32-C3
 
 ### 1️⃣ Prerequisites
 
-- [Arduino IDE 2.x](https://www.arduino.cc/en/software) or [PlatformIO](https://platformio.org/)
+- [Arduino IDE 2.x or 3.x](https://www.arduino.cc/en/software) or [PlatformIO](https://platformio.org/)
 - ESP32 Board Support Package installed
 - A Spotify Premium account (required for API access)
 
