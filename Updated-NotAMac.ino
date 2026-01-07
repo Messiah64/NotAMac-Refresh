@@ -62,11 +62,12 @@
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
 
 // WiFi & Spotify credentials
-const char* WIFI_SSID = "YOUR_WIFI_NAME";
-const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
-const char* CLIENT_ID = "YOUR_SPOTIFY_CLIENT_ID";
-const char* CLIENT_SECRET = "YOUR_SPOTIFY_CLIENT_SECRET";
-const char* REFRESH_TOKEN = "YOUR_LONG_REFRESH_TOKEN";
+const char* WIFI_SSID = "CHANGE THIS TO UR OWN";
+const char* WIFI_PASSWORD = "CHANGE THIS TO UR OWN";
+const char* CLIENT_ID = "a2e012ebf42f4d9db333e2c7c1009d0f";
+const char* CLIENT_SECRET = "625d6eacc5a44c63b1b5041273431328";
+const char* REFRESH_TOKEN = "CHANGE THIS TO UR OWN";
+
 
 
 String accessToken;
